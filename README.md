@@ -15,19 +15,19 @@ Automate the following processes for the [OrangeHRM Demo Site](https://opensourc
 
 This framework follows the **Page Object Model (POM)** pattern and includes:
 
-orangehrm_automation/
-├── pages/
-│ ├── login_page.py
-│ ├── dashboard_page.py
-│ └── leave_page.py
-├── tests/
-│ ├── test_login.py
-│ ├── test_dashboard.py
-│ ├── test_leave.py
-│ └── test_logout.py
-├── conftest.py
-├── requirements.txt
-└── README.md
+orangehrm_automation/</br>
+├── pages/</br>
+│ ├── login_page.py</br>
+│ ├── dashboard_page.py</br>
+│ └── leave_page.py</br>
+├── tests/</br>
+│ ├── test_login.py</br>
+│ ├── test_dashboard.py</br>
+│ ├── test_leave.py</br>
+│ └── test_logout.py</br>
+├── conftest.py</br>
+├── requirements.txt</br>
+└── README.md</br>
 
 
 ---
